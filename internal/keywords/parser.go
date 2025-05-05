@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/lexer"
-	"github.com/bitmagnet-io/bitmagnet/internal/regex"
+	"github.com/melkor217/bitmagnet/internal/lexer"
+	"github.com/melkor217/bitmagnet/internal/regex"
 	"github.com/hedhyw/rex/pkg/dialect"
 	"github.com/hedhyw/rex/pkg/dialect/base"
 	"github.com/hedhyw/rex/pkg/rex"

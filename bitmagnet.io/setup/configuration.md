@@ -83,7 +83,7 @@ Environment variables can be used to configure simple scalar types (strings, num
 
 ## VPN configuration
 
-It's recommended that you run **bitmagnet** behind a VPN. If you're using Docker then [gluetun](https://github.com/qdm12/gluetun-wiki) is a good solution for this, although the networking settings can be tricky. The [example docker-compose file](https://github.com/bitmagnet-io/bitmagnet/blob/main/docker-compose.yml) demonstrates this.
+It's recommended that you run **bitmagnet** behind a VPN. If you're using Docker then [gluetun](https://github.com/qdm12/gluetun-wiki) is a good solution for this, although the networking settings can be tricky. The [example docker-compose file](https://github.com/melkor217/bitmagnet/blob/main/docker-compose.yml) demonstrates this.
 
 ## Obtaining a TMDB API Key
 

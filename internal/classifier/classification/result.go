@@ -1,6 +1,6 @@
 package classification
 
-import "github.com/bitmagnet-io/bitmagnet/internal/model"
+import "github.com/melkor217/bitmagnet/internal/model"
 
 type Result struct {
 	ContentAttributes

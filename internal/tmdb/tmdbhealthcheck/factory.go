@@ -3,9 +3,9 @@ package tmdbhealthcheck
 import (
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/health"
-	"github.com/bitmagnet-io/bitmagnet/internal/lazy"
-	"github.com/bitmagnet-io/bitmagnet/internal/tmdb"
+	"github.com/melkor217/bitmagnet/internal/health"
+	"github.com/melkor217/bitmagnet/internal/lazy"
+	"github.com/melkor217/bitmagnet/internal/tmdb"
 	"go.uber.org/fx"
 )
 

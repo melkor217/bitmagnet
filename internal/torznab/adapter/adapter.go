@@ -3,9 +3,9 @@ package adapter
 import (
 	"context"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/query"
-	"github.com/bitmagnet-io/bitmagnet/internal/database/search"
-	"github.com/bitmagnet-io/bitmagnet/internal/torznab"
+	"github.com/melkor217/bitmagnet/internal/database/query"
+	"github.com/melkor217/bitmagnet/internal/database/search"
+	"github.com/melkor217/bitmagnet/internal/torznab"
 )
 
 func New(search search.Search) Adapter {

@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/dao"
-	"github.com/bitmagnet-io/bitmagnet/internal/lazy"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/database/dao"
+	"github.com/melkor217/bitmagnet/internal/lazy"
+	"github.com/melkor217/bitmagnet/internal/model"
 	"github.com/prometheus/client_golang/prometheus"
 	"go.uber.org/zap"
 )

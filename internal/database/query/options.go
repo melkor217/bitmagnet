@@ -3,9 +3,9 @@ package query
 import (
 	"context"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/cache"
-	"github.com/bitmagnet-io/bitmagnet/internal/database/dao"
-	"github.com/bitmagnet-io/bitmagnet/internal/maps"
+	"github.com/melkor217/bitmagnet/internal/database/cache"
+	"github.com/melkor217/bitmagnet/internal/database/dao"
+	"github.com/melkor217/bitmagnet/internal/maps"
 	"gorm.io/gen/field"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"

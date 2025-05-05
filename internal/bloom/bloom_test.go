@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht"
 	"github.com/stretchr/testify/assert"
 )
 

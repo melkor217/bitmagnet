@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/query"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol"
+	"github.com/melkor217/bitmagnet/internal/database/query"
+	"github.com/melkor217/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/protocol"
 )
 
 func TorrentInfoHashCriteria(infoHashes ...protocol.ID) query.Criteria {

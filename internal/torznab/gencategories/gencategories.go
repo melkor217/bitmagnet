@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/maps"
-	"github.com/bitmagnet-io/bitmagnet/internal/torznab"
+	"github.com/melkor217/bitmagnet/internal/maps"
+	"github.com/melkor217/bitmagnet/internal/torznab"
 )
 
 // Taken from https://torznab.github.io/spec-1.3-draft/external/newznab/api.html#predefined-categories

@@ -4,7 +4,7 @@ import (
 	"net/netip"
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht/ktable/btree"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht/ktable/btree"
 	"github.com/prometheus/client_golang/prometheus"
 	"go.uber.org/fx"
 )

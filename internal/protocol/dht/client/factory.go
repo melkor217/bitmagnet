@@ -3,9 +3,9 @@ package client
 import (
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/lazy"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht/server"
+	"github.com/melkor217/bitmagnet/internal/lazy"
+	"github.com/melkor217/bitmagnet/internal/protocol"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht/server"
 	"go.uber.org/fx"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

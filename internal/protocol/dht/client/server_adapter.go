@@ -5,9 +5,9 @@ import (
 	"errors"
 	"net/netip"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht/server"
+	"github.com/melkor217/bitmagnet/internal/protocol"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht/server"
 )
 
 type serverAdapter struct {

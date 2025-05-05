@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/gql/gqlmodel/gen"
-	"github.com/bitmagnet-io/bitmagnet/internal/metrics/torrentmetrics"
+	"github.com/melkor217/bitmagnet/internal/gql/gqlmodel/gen"
+	"github.com/melkor217/bitmagnet/internal/metrics/torrentmetrics"
 )
 
 func (t TorrentQuery) Metrics(

@@ -14,7 +14,7 @@ nav_order: -1
 
 > Important
 >
-> This software is currently in alpha. It is ready to preview some interesting and unique features, but there will likely be bugs, as well as API and database schema changes before the (currently theoretical) 1.0 release. If you'd like to support this project and help it gain momentum, please **[give it a star on GitHub](https://github.com/bitmagnet-io/bitmagnet)** or **[sponsor it on OpenCollective](https://opencollective.com/bitmagnet)**.
+> This software is currently in alpha. It is ready to preview some interesting and unique features, but there will likely be bugs, as well as API and database schema changes before the (currently theoretical) 1.0 release. If you'd like to support this project and help it gain momentum, please **[give it a star on GitHub](https://github.com/melkor217/bitmagnet)** or **[sponsor it on OpenCollective](https://opencollective.com/bitmagnet)**.
 
 ## DHT what now...?
 

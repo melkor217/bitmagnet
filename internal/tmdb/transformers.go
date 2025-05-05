@@ -3,8 +3,8 @@ package tmdb
 import (
 	"strconv"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/classifier/classification"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/classifier/classification"
+	"github.com/melkor217/bitmagnet/internal/model"
 )
 
 func MovieDetailsToMovieModel(details MovieDetailsResponse) (movie model.Content, err error) {

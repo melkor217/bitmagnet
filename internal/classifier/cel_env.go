@@ -3,9 +3,9 @@ package classifier
 import (
 	"fmt"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/keywords"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
-	"github.com/bitmagnet-io/bitmagnet/internal/protobuf"
+	"github.com/melkor217/bitmagnet/internal/keywords"
+	"github.com/melkor217/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/protobuf"
 	"github.com/google/cel-go/cel"
 	"github.com/google/cel-go/common/types"
 	"github.com/google/cel-go/ext"

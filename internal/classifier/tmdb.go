@@ -3,9 +3,9 @@ package classifier
 import (
 	"errors"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/classifier/classification"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
-	"github.com/bitmagnet-io/bitmagnet/internal/tmdb"
+	"github.com/melkor217/bitmagnet/internal/classifier/classification"
+	"github.com/melkor217/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/tmdb"
 )
 
 func (c executionContext) tmdbSearchMovie(title string, year model.Year) (model.Content, error) {

@@ -4,10 +4,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/dao"
-	"github.com/bitmagnet-io/bitmagnet/internal/lazy"
-	"github.com/bitmagnet-io/bitmagnet/internal/queue/handler"
-	"github.com/bitmagnet-io/bitmagnet/internal/worker"
+	"github.com/melkor217/bitmagnet/internal/database/dao"
+	"github.com/melkor217/bitmagnet/internal/lazy"
+	"github.com/melkor217/bitmagnet/internal/queue/handler"
+	"github.com/melkor217/bitmagnet/internal/worker"
 	"go.uber.org/fx"
 	"go.uber.org/zap"
 )

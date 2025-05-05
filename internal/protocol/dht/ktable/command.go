@@ -3,7 +3,7 @@ package ktable
 import (
 	"net/netip"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht/ktable/btree"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht/ktable/btree"
 )
 
 type Command interface {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/concurrency"
+	"github.com/melkor217/bitmagnet/internal/concurrency"
 	"github.com/go-resty/resty/v2"
 )
 

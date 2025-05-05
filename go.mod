@@ -1,4 +1,4 @@
-module github.com/bitmagnet-io/bitmagnet
+module github.com/melkor217/bitmagnet
 
 go 1.23.6
 

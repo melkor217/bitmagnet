@@ -3,7 +3,7 @@ package configfx
 import (
 	"errors"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/config"
+	"github.com/melkor217/bitmagnet/internal/config"
 	"go.uber.org/fx"
 )
 

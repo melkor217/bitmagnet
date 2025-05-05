@@ -3,8 +3,8 @@ package query
 import (
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/maps"
-	"github.com/bitmagnet-io/bitmagnet/internal/regex"
+	"github.com/melkor217/bitmagnet/internal/maps"
+	"github.com/melkor217/bitmagnet/internal/regex"
 	"gorm.io/gen/field"
 	"gorm.io/gorm"
 )

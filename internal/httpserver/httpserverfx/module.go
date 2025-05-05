@@ -1,9 +1,9 @@
 package httpserverfx
 
 import (
-	"github.com/bitmagnet-io/bitmagnet/internal/config/configfx"
-	"github.com/bitmagnet-io/bitmagnet/internal/httpserver"
-	"github.com/bitmagnet-io/bitmagnet/internal/httpserver/cors"
+	"github.com/melkor217/bitmagnet/internal/config/configfx"
+	"github.com/melkor217/bitmagnet/internal/httpserver"
+	"github.com/melkor217/bitmagnet/internal/httpserver/cors"
 	"go.uber.org/fx"
 )
 

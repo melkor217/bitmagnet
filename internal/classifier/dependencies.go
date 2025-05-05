@@ -1,7 +1,7 @@
 package classifier
 
 import (
-	"github.com/bitmagnet-io/bitmagnet/internal/tmdb"
+	"github.com/melkor217/bitmagnet/internal/tmdb"
 )
 
 type dependencies struct {

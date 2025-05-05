@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/gql/enums"
+	"github.com/melkor217/bitmagnet/internal/gql/enums"
 )
 
 func main() {

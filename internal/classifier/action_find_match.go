@@ -3,7 +3,7 @@ package classifier
 import (
 	"errors"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/classifier/classification"
+	"github.com/melkor217/bitmagnet/internal/classifier/classification"
 )
 
 const findMatchName = "find_match"

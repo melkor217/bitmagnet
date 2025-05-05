@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/adrg/xdg"
-	"github.com/bitmagnet-io/bitmagnet/internal/tmdb"
+	"github.com/melkor217/bitmagnet/internal/tmdb"
 	"gopkg.in/yaml.v3"
 )
 

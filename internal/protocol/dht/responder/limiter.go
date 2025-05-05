@@ -5,8 +5,8 @@ import (
 	"net/netip"
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/concurrency"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol/dht"
+	"github.com/melkor217/bitmagnet/internal/concurrency"
+	"github.com/melkor217/bitmagnet/internal/protocol/dht"
 	"golang.org/x/time/rate"
 )
 

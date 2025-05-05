@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Docker
 
-The quickest way to get up-and-running with **bitmagnet** is with [Docker Compose](https://docs.docker.com/compose/). The following `docker-compose.yml` is a minimal example. For a more full-featured example including VPN routing and observability services see the [docker compose configuration in the GitHub repository](https://github.com/bitmagnet-io/bitmagnet/blob/main/docker-compose.yml).
+The quickest way to get up-and-running with **bitmagnet** is with [Docker Compose](https://docs.docker.com/compose/). The following `docker-compose.yml` is a minimal example. For a more full-featured example including VPN routing and observability services see the [docker compose configuration in the GitHub repository](https://github.com/melkor217/bitmagnet/blob/main/docker-compose.yml).
 
 ```yml
 services:
@@ -74,7 +74,7 @@ docker compose up -d bitmagnet
 
 ## go install
 
-You can also install **bitmagnet** natively with `go install github.com/bitmagnet-io/bitmagnet`. If you choose this method you will need to [configure]({% link setup/configuration.md %}) (at a minimum) a Postgres instance for bitmagnet to connect to.
+You can also install **bitmagnet** natively with `go install github.com/melkor217/bitmagnet`. If you choose this method you will need to [configure]({% link setup/configuration.md %}) (at a minimum) a Postgres instance for bitmagnet to connect to.
 
 ## Running the CLI
 

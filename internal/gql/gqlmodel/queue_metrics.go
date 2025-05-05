@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/search"
-	"github.com/bitmagnet-io/bitmagnet/internal/gql/gqlmodel/gen"
-	"github.com/bitmagnet-io/bitmagnet/internal/metrics/queuemetrics"
-	"github.com/bitmagnet-io/bitmagnet/internal/queue/manager"
+	"github.com/melkor217/bitmagnet/internal/database/search"
+	"github.com/melkor217/bitmagnet/internal/gql/gqlmodel/gen"
+	"github.com/melkor217/bitmagnet/internal/metrics/queuemetrics"
+	"github.com/melkor217/bitmagnet/internal/queue/manager"
 )
 
 type QueueQuery struct {

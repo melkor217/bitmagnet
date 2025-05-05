@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/lexer"
+	"github.com/melkor217/bitmagnet/internal/lexer"
 	"github.com/facette/natsort"
 	"gorm.io/gorm"
 )

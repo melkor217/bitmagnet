@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/keywords"
+	"github.com/melkor217/bitmagnet/internal/keywords"
 )
 
 // VideoResolution represents the resolution of a video

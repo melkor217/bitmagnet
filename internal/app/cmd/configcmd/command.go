@@ -1,7 +1,7 @@
 package configcmd
 
 import (
-	"github.com/bitmagnet-io/bitmagnet/internal/config"
+	"github.com/melkor217/bitmagnet/internal/config"
 	"github.com/jedib0t/go-pretty/v6/table"
 	"github.com/urfave/cli/v2"
 	"go.uber.org/fx"

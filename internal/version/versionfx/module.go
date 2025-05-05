@@ -1,8 +1,8 @@
 package versionfx
 
 import (
-	"github.com/bitmagnet-io/bitmagnet/internal/version"
-	"github.com/bitmagnet-io/bitmagnet/internal/version/healthcheck"
+	"github.com/melkor217/bitmagnet/internal/version"
+	"github.com/melkor217/bitmagnet/internal/version/healthcheck"
 	"go.uber.org/fx"
 )
 

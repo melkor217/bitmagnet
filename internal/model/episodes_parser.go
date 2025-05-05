@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/keywords"
+	"github.com/melkor217/bitmagnet/internal/keywords"
 	"github.com/hedhyw/rex/pkg/dialect"
 	"github.com/hedhyw/rex/pkg/rex"
 )

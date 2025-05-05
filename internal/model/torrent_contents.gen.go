@@ -7,8 +7,8 @@ package model
 import (
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/fts"
-	"github.com/bitmagnet-io/bitmagnet/internal/protocol"
+	"github.com/melkor217/bitmagnet/internal/database/fts"
+	"github.com/melkor217/bitmagnet/internal/protocol"
 )
 
 const TableNameTorrentContent = "torrent_contents"

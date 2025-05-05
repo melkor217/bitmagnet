@@ -1,8 +1,8 @@
 package migratecmd
 
 import (
-	"github.com/bitmagnet-io/bitmagnet/internal/database/migrations"
-	"github.com/bitmagnet-io/bitmagnet/internal/lazy"
+	"github.com/melkor217/bitmagnet/internal/database/migrations"
+	"github.com/melkor217/bitmagnet/internal/lazy"
 	"github.com/urfave/cli/v2"
 	"go.uber.org/fx"
 )

@@ -3,8 +3,8 @@ package search
 import (
 	"context"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/database/query"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/database/query"
+	"github.com/melkor217/bitmagnet/internal/model"
 	"gorm.io/gen"
 )
 

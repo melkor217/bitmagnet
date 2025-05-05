@@ -1,12 +1,12 @@
 package torznabfx
 
 import (
-	"github.com/bitmagnet-io/bitmagnet/internal/config/configfx"
-	"github.com/bitmagnet-io/bitmagnet/internal/database/search"
-	"github.com/bitmagnet-io/bitmagnet/internal/lazy"
-	"github.com/bitmagnet-io/bitmagnet/internal/torznab"
-	"github.com/bitmagnet-io/bitmagnet/internal/torznab/adapter"
-	"github.com/bitmagnet-io/bitmagnet/internal/torznab/httpserver"
+	"github.com/melkor217/bitmagnet/internal/config/configfx"
+	"github.com/melkor217/bitmagnet/internal/database/search"
+	"github.com/melkor217/bitmagnet/internal/lazy"
+	"github.com/melkor217/bitmagnet/internal/torznab"
+	"github.com/melkor217/bitmagnet/internal/torznab/adapter"
+	"github.com/melkor217/bitmagnet/internal/torznab/httpserver"
 	"go.uber.org/fx"
 )
 

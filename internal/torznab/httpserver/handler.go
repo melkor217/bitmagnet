@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
-	"github.com/bitmagnet-io/bitmagnet/internal/torznab"
+	"github.com/melkor217/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/torznab"
 	"github.com/gin-gonic/gin"
 )
 

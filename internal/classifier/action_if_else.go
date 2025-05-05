@@ -1,6 +1,6 @@
 package classifier
 
-import "github.com/bitmagnet-io/bitmagnet/internal/classifier/classification"
+import "github.com/melkor217/bitmagnet/internal/classifier/classification"
 
 type ifElseAction struct{}
 

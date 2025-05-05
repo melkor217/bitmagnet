@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/classifier"
-	"github.com/bitmagnet-io/bitmagnet/internal/processor/batch"
+	"github.com/melkor217/bitmagnet/internal/classifier"
+	"github.com/melkor217/bitmagnet/internal/processor/batch"
 	"gorm.io/gorm"
 )
 

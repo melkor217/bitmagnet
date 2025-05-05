@@ -3,9 +3,9 @@ package manager
 import (
 	"context"
 
-	"github.com/bitmagnet-io/bitmagnet/internal/classifier"
-	"github.com/bitmagnet-io/bitmagnet/internal/model"
-	"github.com/bitmagnet-io/bitmagnet/internal/processor"
+	"github.com/melkor217/bitmagnet/internal/classifier"
+	"github.com/melkor217/bitmagnet/internal/model"
+	"github.com/melkor217/bitmagnet/internal/processor"
 )
 
 type PurgeJobsRequest struct {
